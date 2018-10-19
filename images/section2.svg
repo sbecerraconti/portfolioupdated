@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="784px" height="900px" viewBox="0 0 784 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>section2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="710.639996" height="863.783587"></rect>
+    </defs>
+    <g id="section2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-+-Group-2-+-letter-a-Mask-Copy" transform="translate(36.000000, 17.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="Group-2" mask="url(#mask-2)">
+                <g transform="translate(136.328164, 648.929979) scale(-1, 1) translate(-136.328164, -648.929979) translate(-217.671836, 343.929979)">
+                    <path d="M442.638712,195.56374 L442.638712,117.544423" id="Line" stroke="#69D0C1" stroke-width="1.34336483" fill="none" stroke-linecap="square" stroke-dasharray="6.716824130885755"></path>
+                    <path d="M363.377718,131.649754 L454.735332,131.649754" id="Line" stroke="#69D0C1" stroke-width="1.34336483" fill="none" stroke-linecap="square" stroke-dasharray="6.716824130885755"></path>
+                    <path d="M134.088212,130.978071 C107.640636,130.978071 96.1883687,133.189606 84.3292955,139.531908 C73.9534377,145.080977 65.8224521,153.211963 60.2733827,163.587821 C53.9310809,175.446894 51.719546,186.899161 51.719546,213.346737 L51.719546,439.528571 C51.719546,465.976147 53.9310809,477.428414 60.2733827,489.287488 C65.8224521,499.663345 73.9534377,507.794331 84.3292955,513.3434 C96.1883687,519.685702 107.640636,521.897237 134.088212,521.897237 L360.270046,521.897237 C386.717622,521.897237 398.169889,519.685702 410.028963,513.3434 C420.40482,507.794331 428.535806,499.663345 434.084875,489.287488 C440.427177,477.428414 442.638712,465.976147 442.638712,439.528571 L442.638712,213.346737 C442.638712,186.899161 440.427177,175.446894 434.084875,163.587821 C428.535806,153.211963 420.40482,145.080977 410.028963,139.531908 C398.169889,133.189606 386.717622,130.978071 360.270046,130.978071 L134.088212,130.978071 Z" id="Rectangle-4" stroke="#3E3E3E" stroke-width="4.0300945" fill="none"></path>
+                    <text id="8px" stroke="none" fill="none" transform="translate(465.870583, 116.625822) scale(-1, 1) translate(-465.870583, -116.625822) " font-family="AirbnbCerealApp-Bold, Airbnb Cereal App" font-size="16.120378" font-weight="bold">
+                        <tspan x="451.370583" y="122.125822" fill="#69D0C1">8px</tspan>
+                    </text>
+                    <rect id="Rectangle-5" stroke="none" fill="#FFFFFF" fill-rule="evenodd" x="0" y="0" width="260.612777" height="609.887634"></rect>
+                    <rect id="Rectangle-5" stroke="none" fill="#FFFFFF" fill-rule="evenodd" x="85.9753492" y="306.287182" width="621.977917" height="283.449979" rx="134.336483"></rect>
+                </g>
+            </g>
+            <g id="letter-a" mask="url(#mask-2)">
+                <g transform="translate(358.364006, 389.918788)">
+                    <text id="a" stroke="#3E3E3E" stroke-width="0.944999995" font-family="AirbnbCerealApp-Bold, Airbnb Cereal App" font-size="405.696179" font-weight="bold" fill-opacity="0">
+                        <tspan x="28.2106615" y="409" fill="#FFFFFF">a</tspan>
+                    </text>
+                    <path d="M141.72499,270.688014 L0.671682416,241.133987" id="Line-Copy" stroke="#69D0C1" stroke-width="1.34336483" stroke-linecap="square" stroke-dasharray="5.373459218877912"></path>
+                    <path d="M290.838486,410.397956 L155.158638,410.397956" id="Line-Copy" stroke="#69D0C1" stroke-width="1.34336483" stroke-linecap="square" stroke-dasharray="5.373459218877912"></path>
+                    <path d="M183.3693,441.295347 L180.68257,382.187295" id="Line-Copy" stroke="#69D0C1" stroke-width="1.34336483" stroke-linecap="square" stroke-dasharray="5.373459218877912"></path>
+                    <path d="M234.417163,441.295347 L234.417163,211.544612" id="Line-Copy" stroke="#69D0C1" stroke-width="1.34336483" stroke-linecap="square" stroke-dasharray="5.373459218877912"></path>
+                    <path d="M176.652475,336.772553 L176.652475,211.544612" id="Line-Copy" stroke="#69D0C1" stroke-width="1.34336483" stroke-linecap="square" stroke-dasharray="5.373459218877912"></path>
+                    <path d="M137.023213,381.515612 C190.441446,381.515612 233.745481,338.211578 233.745481,284.793344 C233.745481,231.375111 190.441446,188.071076 137.023213,188.071076 C83.6049793,188.071076 40.300945,231.375111 40.300945,284.793344 C40.300945,338.211578 83.6049793,381.515612 137.023213,381.515612 Z" id="Oval-2" stroke="#69D0C1" stroke-width="1.34336483" stroke-dasharray="5.373459218877912"></path>
+                    <path d="M127.619659,471.521056 C181.037893,471.521056 224.341927,428.217022 224.341927,374.798788 C224.341927,321.380555 181.037893,278.07652 127.619659,278.07652 C74.2014255,278.07652 30.8973911,321.380555 30.8973911,374.798788 C30.8973911,428.217022 74.2014255,471.521056 127.619659,471.521056 Z" id="Oval-2" stroke="#69D0C1" stroke-width="1.34336483" stroke-dasharray="5.373459218877912"></path>
+                    <path d="M132.993118,373.455423 C158.960315,373.455423 180.010887,352.404851 180.010887,326.437654 C180.010887,300.470457 158.960315,279.419885 132.993118,279.419885 C107.025921,279.419885 85.9753492,300.470457 85.9753492,326.437654 C85.9753492,352.404851 107.025921,373.455423 132.993118,373.455423 Z" id="Oval-2" stroke="#69D0C1" stroke-width="1.34336483" stroke-dasharray="5.373459218877912"></path>
+                    <path d="M138.366578,326.437654 C162.849935,326.437654 182.697617,306.589972 182.697617,282.106615 C182.697617,257.623258 162.849935,237.775575 138.366578,237.775575 C113.883221,237.775575 94.0355382,257.623258 94.0355382,282.106615 C94.0355382,306.589972 113.883221,326.437654 138.366578,326.437654 Z" id="Oval-2" stroke="#69D0C1" stroke-width="1.34336483" stroke-dasharray="5.373459218877912"></path>
+                    <path d="M140.381625,470.177691 C182.3001,470.177691 216.281738,436.196053 216.281738,394.277578 C216.281738,352.359103 182.3001,318.377465 140.381625,318.377465 C98.46315,318.377465 64.4815119,352.359103 64.4815119,394.277578 C64.4815119,436.196053 98.46315,470.177691 140.381625,470.177691 Z" id="Oval-2" stroke="#69D0C1" stroke-width="1.34336483" stroke-dasharray="5.373459218877912"></path>
+                    <path d="M116.201058,419.129827 C158.119533,419.129827 192.101171,385.148189 192.101171,343.229714 C192.101171,301.31124 158.119533,267.329602 116.201058,267.329602 C74.282583,267.329602 40.300945,301.31124 40.300945,343.229714 C40.300945,385.148189 74.282583,419.129827 116.201058,419.129827 Z" id="Oval-2" stroke="#69D0C1" stroke-width="1.34336483" stroke-dasharray="5.373459218877912"></path>
+                </g>
+            </g>
+            <g id="design" mask="url(#mask-2)">
+                <g transform="translate(108.812551, 110.155916)">
+                    <path d="M1.2142203,166.587301 L1526.01946,166.587301" id="Line-Copy-2" stroke="#69D0C1" stroke-width="0.944999995" stroke-linecap="square"></path>
+                    <path d="M1.2142203,42.7383474 L1526.01946,42.7383474" id="Line-Copy-2" stroke="#69D0C1" stroke-width="0.944999995" stroke-linecap="square"></path>
+                    <path d="M234.400488,202.330084 L1526.01946,202.330084" id="Line-Copy-2" stroke="#69D0C1" stroke-width="0.944999995" stroke-linecap="square"></path>
+                    <path d="M160.351306,73.3670626 L1526.01946,73.3670626" id="Line-Copy-2" stroke="#69D0C1" stroke-width="0.944999995" stroke-linecap="square"></path>
+                    <path d="M278.010097,34.6781562 L1526.01946,34.6781562" id="Line-Copy-2" stroke="#69D0C1" stroke-width="0.944999995" stroke-linecap="square"></path>
+                    <text id="Design" stroke="none" font-family="AirbnbCerealApp-Bold, Airbnb Cereal App" font-size="175.492864" font-weight="bold" line-spacing="207.179076">
+                        <tspan x="10.6523383" y="177" fill="#3E3E3E">Design</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,201 @@
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- <link rel="stylesheet" href="stylesheet/reset.css"> -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="stylesheet/style.css">
+    <link rel="stylesheet" media="(max-width: 780px)" href="stylesheet/tablet.css">
+    <link rel="stylesheet" media="(max-width: 420px)" href="stylesheet/mobile.css">
+    <script src="./javascript/script.js" charset="utf-8"></script>
+    <!--<link rel="stylesheet" href="https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/Airbnb_Cereal-Book-9a1c9cca9bb3d65fefa2aa487617805e.woff2">-->
+
+    <title>Document</title>
+  </head>
+
+<header>
+      <div class="main-nav row">
+        <nav class="navbar navbar-expand-lg navbar-light bg-none">
+          <a href="#home"><img class="logo" src="images/santibecerracontilogo2.svg" alt="logo personal"></a>
+          <button class="navbar-toggler hamburguer" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse navbar-content links" id="navbarTogglerDemo02">
+            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+
+              <li class="nav-item sections">
+                <a class="nav-link" onclick='checkPosition()' name="#user-experience" href="#user-experience">User Experience <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item sections">
+                <a class="nav-link" onclick='checkPosition()' name="#user-interface" href="#user-interface">User Interface</a>
+              </li>
+              <li class="nav-item sections">
+                <a class="nav-link" onclick='checkPosition()' name="#projects" href="#projects">Projects</a>
+              </li>
+              <li class="nav-item sections">
+                <a class="nav-link" onclick='checkPosition()' name="#about-me" href="#about-me">About me</a>
+              </li>
+              <li class="nav-item sections">
+                <a class="nav-link" onclick='checkPosition()' name="#contact-me" href="#contact-me">Contact me</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+</header>
+<body>
+
+<div id="home" class="section section1">
+  <h1>
+    Hi, I’m Santi! </br>
+    UX|UI Designer</br>
+    working in Madrid
+  </h1>
+  <button class="home-button button-primary" type="button" name="button"><a href="#user-experience" class="button-primary2">Discover how I work</a></button>
+</div>
+
+<div id="user-experience" class="section section2">
+    <div class="content-experience">
+      <div class="user-experience">
+        <div class="title">
+          <h2>Design Thinking</h2>
+        </div>
+        <div class="subtitle">
+          <h3>For my UX Projects I always apply the Design Thinking Methodology. With this structure and depending the time I have for the project I have to decide what tools I would need to use.</h3>
+            <p class="text">This are my top 4 tools during the UX Design Process: </br></br>
+              · Surveys & Interviews </br>
+              · User Persona & User Journey </br>
+              · Ideation Exercises </br>
+              · Testing & Iteration </br>
+            </p>
+        </div>
+      </div>
+    </div>
+    <div class="image-experience">
+      <img class="design-thinking"src="images/section3.svg" alt="design thinking process">
+    </div>
+</div>
+
+<div id="user-interface" class="section section3">
+  <div class="content-experience">
+    <div class="title">
+      <h2>Visual & Branding</h2>
+    </div>
+    <div class="subtitle">
+      <h3>During the UI Process and depending on the stage of the project, I decide wich tools I need for defining a correct visual proposition, from defining the branding to synthesizing the atomic design.</h3>
+    </div>
+    <div class="text">
+      <p>This are my top 4 tools during the UI Design Process:</br></br>
+        · Brand attributes & Moodboard </br>
+        · Picking color, icons & typography</br>
+        · Layout, spacing, alignment & consistency</br>
+        · Atomic Design & Design Systems</br>
+      </p>
+    </div>
+  </div>
+  <div class="image-experience">
+    <img class="design-thinking"src="images/section2.svg" alt="design thinking process">
+
+  </div>
+</div>
+
+<div id="projects" class="section section4">
+  <div class="">
+    <div class="title">
+      <h2>Projects</h2>
+    </div>
+    <div class="project-galery">
+    <div class="project-item large">
+      <div class="card-info one">
+        <h2>Surfain</h2>
+        <div class="tags-wrapper">
+          <div class="tag-item">#uxui</div>
+          <div class="tag-item">#visual</div>
+          <div class="tag-item">#branding</div>
+        </div>
+        <p class="hover-description">Surfain is a Wellness App that aims to help people who play outside sports by improving  their fitness by doing exercises recommended for profesionals of each sport</p>
+        <button type="button" name="button">See More</button>
+      </div>
+    </div>
+    <div class="project-item medium">
+      <div class="card-info two">
+        <h2>Ohh...</h2>
+        <p class="hover-description">This project is cooming soon...</p>
+      </div>
+    </div>
+    <div class="project-item medium"></div>
+    <div class="project-item small"></div>
+    <div class="project-item small"></div>
+    <div class="project-item small"></div>
+    <div class="project-item small"></div>
+  </div>
+
+  </div>
+</div>
+
+<div id="about-me" class="section section5">
+  <div class="content-about">
+    <div class="title">
+      <h2>About me</h2>
+    </div>
+    <div class="subtitle">
+      <h3>“I love working on challenging projects with people who appreciate enthusiasm and innovation. </br></br>
+      My freak hobbie is Surf! Because of that, I love going on getaways to North Spain and surf some many waves!”</h3>
+    </div>
+  </div>
+  <p class="title">Check out my last proffesional experience:</p>
+  <div class="past">
+      <div class="profcards">
+        <div class="experience-wrapper bwow">
+          <img class="pc" src="images/bwow.svg" alt="">
+        </div>
+        <div class="experience-wrapper ironhack">
+        <img class="pc" src="images/ironhack.svg" alt="">
+      </div>
+        <div class="experience-wrapper setafoot">
+        <img class="pc" src="images/setafoot.svg" alt="">
+      </div>
+        <div class="experience-wrapper pwc">
+        <img class="pc" src="images/pwc.svg" alt="">
+      </div>
+      </div>
+      <div class="linkedin vl">
+        <p class="title">Would you like to know more about my background?</p>
+        <a class="title-green" href="https://www.linkedin.com/in/santiagobecerraconti/">Check out my Linked-in Profile</a>
+
+      </div>
+
+  </div>
+</div>
+<div id="contact-me" class="section section6">
+  <div class="left-contact-wrapper">
+    <img class="design-thinking"src="images/section4.svg" alt="design thinking process">
+  </div>
+  <div class="right-contact-wrapper">
+  <div class="title">
+    <h2>Contact me</h2>
+  </div>
+  <div class="subtitle">
+    <h3>Would you like to know more about me? Send me a message! I’ll appreciate that!</h3>
+  </div>
+  <div class="form">
+  <form action="https://formspree.io/sbecerraconti@gmail.com"
+        method="POST">
+      <input type="email" name="email" placeholder="Your email" class="input-email">
+      <input type="text" name="name" class="input-name" placeholder="Your name">
+      <input type="text" name="topic" class="input-topic" placeholder="Subject">
+      <textarea name="message" class="input-content" placeholder="Your message"></textarea>
+      <input type="submit" value="Submit message" class="button-primary submit-button">
+  </form>
+  </div>
+  </div>
+</div>
+  </body>
+</html>
