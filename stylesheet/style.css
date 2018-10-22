@@ -343,25 +343,26 @@ header{
   background-position: bottom;
   background-repeat: no-repeat;
   box-sizing: border-box;
-  width: 30%;
+  width: 19.5vw;
   margin: 8px;
   box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.08), 0 1px 10px 0 rgba(0, 0, 0, 0.08), 0 2px 4px -1px rgba(0, 0, 0, 0.08);
 }
 
-.project-item.large {
-  height: 50vh;
-  background-image: url('../images/card1.svg');
+.project-item.large1 {
+  height: 19.5vw;
+  background-image: url('../images/lowproject01.png');
 }
-
-.project-item.medium {
-  height: 24vh;
-  background-image: url('../images/card2.svg');
+.project-item.large2 {
+  height: 19.5vw;
+  background-image: url('../images/lowproject02.png');
 }
-
-.project-item.small {
-  height: 24vh;
-  width: 17%;
-  background-image: url('../images/card3.svg');
+.project-item.large3 {
+  height: 19.5vw;
+  background-image: url('../images/lowproject03.png');
+}
+.project-item.large4 {
+  height: 19.5vw;
+  background-image: url('../images/lowproject04.png');
 }
 
 .card-image {
@@ -386,7 +387,7 @@ header{
   justify-content: space-between;
   flex-direction: column;
   text-align: left;
-  padding: 10% 12%;
+  padding: 5% 6%;
   opacity: 0;
 }
 .one {
@@ -398,7 +399,7 @@ header{
   justify-content: space-between;
   flex-direction: column;
   text-align: left;
-  padding: 10% 12%;
+  padding: 5% 6%;
   opacity: 0;
 }
 
@@ -409,55 +410,18 @@ header{
 .card-info h2 {
   font-weight: bold;
   font-family: 'Cereal-Bold', Arial, sans-serif;
-  font-size: 20px;
+  font-size: 1.3vw;
   color: #fff;
 }
-
-.card-info .tags-wrapper {
-  display: flex;
-  width: 100%;
-  justify-content:flex-start;
-  align-items: flex-start;
-}
-
-.card-info .tags-wrapper .tag-item {
-  background-color: rgba(255, 255, 255, 0.32);
-  padding: 8px 8px;
-  color: #FFFFFF;
-  border-radius: 8px;
-  font-family: 'Cereal-Medium';
-  font-size: 14px;
-}
- .tag-item{
-   margin-right: 8px;
-   margin-top: 16px;
- }
-.card-info p {
-  color: #FFFFFF;
-  font-size: 18px;
-}
-
-.card-info button {
-  width: 100%;
-  border: 2px solid #FFFFFF;
-  border-radius: 4px;
-  text-align: center;
-  color: #FFFFFF;
-  background-color: transparent;
-  padding: 10px 0 12px 0;
-  font-family: 'Cereal-Book', Arial, sans-serif;
-  cursor: pointer;
-}
-.hover-description {
-  font-size: 18px;
-  margin-top: 32px;
+.hover-description{
+  font-size: 1.2vw;
+  color: white;
 }
 
 
-.card-info button:hover {
-  background-color: #fff;
-  color: var(--main-color);
-}
+
+
+
 .form form {
   margin-top: 2vh;
   width: 38.7vw;
